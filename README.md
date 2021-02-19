@@ -1,16 +1,32 @@
-# CTF_task
+CTF Web and App Task - Hotel Muruga Bhavan 
 
-A new Flutter project.
 
-## Getting Started
+This mobile application has been developed using the Flutter framework and Dart programming language. It is a restaurant app and it's features are:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  1. THE LANDING PAGE
+  
+        - talks about the legacy of Hotel Muruga Bhavan
+        - has a button that redirects the user to a page with the menu of the restaurant
+        - a 'CALL' button which on pressed takes the user to the default calling app on their phone and let's them place a call to the Hotel
+        
+  2. THE MENU PAGE
+  
+        - lists all the dishes available in the restaurant along with the price and a picture of the dish
+        - provides an option to 'favourite' the dish 
+        - has an 'add to cart' option that let's you add the dish to the user's cart
+      
+  3. A SIDE DRAWER
+      
+        - has options to filter and view only those dishes that are 'favourites' , 'vegetarian' dishes and 'non-vegetarian' dishes
+        - an 'about' link that redirects the user to the homepage of the app
+   
+  4. THE CART SCREEN 
+  
+        - a bottombar (footer) that displays the total and a 'BUY NOW' button
+        - list of all the dishes that have been added to the cart by the user
+        - an option to increase, decrease or delete a dish from the cart screen 
+       
+  
+  Link for the app demo has been given below:
+      
+      https://drive.google.com/file/d/10qJDyT8dhOoHOPIOiBaptch9fj2piwmv/view?usp=sharing
