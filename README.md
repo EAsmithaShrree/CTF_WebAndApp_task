@@ -1,5 +1,8 @@
 CTF Web and App Task - Hotel Muruga Bhavan 
 
+Link for the mobile app demo has been given below ( a screenrecording of the app ) :
+      
+      https://drive.google.com/file/d/10qJDyT8dhOoHOPIOiBaptch9fj2piwmv/view?usp=sharing
 
 This mobile application has been developed using the Flutter framework and Dart programming language. It is a restaurant app and it's features are:
 
@@ -25,8 +28,5 @@ This mobile application has been developed using the Flutter framework and Dart 
         - a bottombar (footer) that displays the total and a 'BUY NOW' button
         - list of all the dishes that have been added to the cart by the user
         - an option to increase, decrease or delete a dish from the cart screen 
-       
-  
-  Link for the app demo has been given below:
-      
-      https://drive.google.com/file/d/10qJDyT8dhOoHOPIOiBaptch9fj2piwmv/view?usp=sharing
+   
+   
